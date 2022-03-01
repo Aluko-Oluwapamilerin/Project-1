@@ -1,0 +1,162 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background: transparent;
+}
+#one{
+    background-image: url(Image/1.jpg)
+}
+#two{
+    background-image: url(Image/2.jpg)
+}
+#three{
+    background-image: url(Image/ccc.gif)
+}
+#four{
+    background-image: url(Image/4.gif)
+}
+#five{
+    background-image: url(Image/5.jpg)
+}
+#six{
+    background-image: url(Image/6.jpg)
+}
+#seven{
+    background-image: url(Image/7.jpg)
+}
+
+#eight{
+    background-image: url(Image/8.jpg)
+}
+#nine{
+    background-image: url(Image/9.jpg)
+}
+#ten{
+    background-image: url(Image/99.jpg)
+}
+#eleven{
+    background-image: url(Image/1010.jpg)
+}
+#twelve{
+    background-image: url(Image/1111.jpg)
+}
+#thirteen{
+    background-image: url(Image/10.jpg)
+}
+#fourteen{
+    background-image: url(Image/11.jpg)
+}
+#fifteen{
+    background-image: url(Image/12.gif)
+}
+#sixteen{
+    background-image: url(Image/13.jpg)
+}
+#seventeen{
+    background-image: url(Image/14.jpg)
+}
+#eighteen{
+    background-image: url(Image/15.jpg)
+}
+#nineteen{
+    background-image: url(Image/mm.jpg)
+}
+#twenty{ background-image: url(Image/nn.jpg)
+}
+#tone{
+    background-image: url(Image/oo.jpg)
+}
+#mis{
+    background-image: url(Image/16.jpg)
+}
+#miss{ background-image: url(Image/17.png)
+}
+#misss{
+    background-image: url(Image/18.jpg)
+}
+#ttwo{
+    background-image: url(Image/19.jpg)
+}
+#tthree{
+    background-image: url(Image/20.jpg)
+}
+#tfour{
+    background-image: url(Image/21.jpg)
+}
+#tfive{
+    background-image: url(Image/22.jpg)
+}
+#tsix{ background-image: url(Image/23.jpg)
+}
+#tseven{
+    background-image: url(Image/24.jpg)
+}
+#teight{
+    background-image: url(Image/25.jpg)
+}
+#tnine{
+    background-image: url(Image/26.jpg)
+}
+#thirty{
+    background-color: yellow;
+}
+#thirtyone{
+    background-image: url(Image/28.jpg);
+    position: left;
+
+}
+.main container{
+    border: 2px solid black;
+    height: 100vh;
+}
+.container{
+    margin-top: 0px;
+    width: 100%;
+    background-color: rgb(133, 133, 139);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.wrap1 {
+    height: 220px;
+    width: 29%;
+    background-color:rgb(177, 120, 120);
+    margin: 20px 20px;
+    background-position: center center;
+}
+.text{
+    display: flex;
+    margin-top: 5px;
+    width: 100%;
+    margin: 0;
+    justify-content: space-between;
+    padding: 40px;
+    height: 30px;
+    background: transparent;
+    color: black;
+    font: 30px;
+    position: sticky;
+    top: 0; 
+    margin: 0;
+}
+.hey{
+    display: flex;
+    margin-top: 5px;
+    width: 100%;
+    margin: 0;
+    justify-content: space-between;
+    padding: 40px;
+   height: 30px;
+    background: transparent;
+    color: black;
+    font: 30px;
+    position: sticky;
+    bottom: 0; 
+    margin: 0;
+}
+#shape{
+    width: 30px;
+    height: 30px;
+}
